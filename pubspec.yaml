@@ -1,0 +1,8 @@
+name: prompter_chief
+version: 0.0.1
+description: Library to create CLI wizardz
+author: Chiefagu <j4devgit@gmail.com>
+homepage: https://facebook.com
+
+environment: 
+  sdk: '<3.0.0'
